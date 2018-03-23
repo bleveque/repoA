@@ -1,0 +1,11 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/bleveque/repoSub.git
+	branch = master
+	commit = af96dcb2efa559d5b74e2770d53c677be5e0b489
+	parent = 3414d55074b20a3cb0a315a0f36a1e511c393f4b
+	cmdver = 0.3.1
